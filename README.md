@@ -1,2 +1,2 @@
 # bookbot
-Repository used for the first project on Boot.dev
+First Git project : where I learn to make mistakes
