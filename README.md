@@ -1,2 +1,2 @@
 # bookbot
-First Git project : where I learn to make mistakes
+First Git project : How to synchronise work on Github
